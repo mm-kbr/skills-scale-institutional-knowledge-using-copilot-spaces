@@ -21,7 +21,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed — coordinated by the **QA Lead**
+
+> See [`docs/octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for the QA Lead and UX Designer responsibilities during execution.
 
 ## Reporting & Metrics
 - Track velocity and burndown

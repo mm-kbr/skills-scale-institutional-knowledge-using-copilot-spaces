@@ -32,9 +32,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Role assignments documented using the [RACI-Lite template](octoacme-checklists-and-templates.md#1-role-assignment--raci-lite-template)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+> See [`docs/octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for descriptions of all project roles including QA Lead, Release Manager, UX Designer, Business Analyst, and Customer Support Liaison.
 
 ## Decision Gate
 Move to planning when:
