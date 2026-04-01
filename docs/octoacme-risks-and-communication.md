@@ -23,6 +23,8 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Use the [Stakeholder Update Template](octoacme-checklists-and-templates.md#4-stakeholder-update-template) for consistent status reporting
+- The **Customer Support Liaison** should be included in distribution for releases affecting end users
 
 ## Communication Templates
 Weekly Status Template:
